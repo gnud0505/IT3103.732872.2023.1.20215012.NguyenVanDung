@@ -1,7 +1,6 @@
-// Example 5: ShowTwoNumbers.java
-import jdk.nashorn.internal.runtime.regexp.joni.exception.JOniException;
-
+// Example 4: ShowTwoNumbers.java
 import javax.swing.JOptionPane;
+
 public class ShowTwoNumbers {
     public static void main(String[] args) {
         String strNum1, strNum2;
