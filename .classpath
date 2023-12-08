@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lab01/Example/SolveEquation/src"/>
+	<classpathentry kind="src" path="Lab01/Example/src"/>
+	<classpathentry kind="src" path="Lab01/Exercise/src"/>
+	<classpathentry kind="src" path="Lab01zip/Example/SolveEquation/src"/>
+	<classpathentry kind="src" path="Lab01zip/Example/src"/>
+	<classpathentry kind="src" path="Lab01zip/Exercise/src"/>
+	<classpathentry kind="src" path="Lab02/ReadingAssignment/AimsProject/src"/>
+	<classpathentry kind="output" path="Lab01/out/production/Caculate"/>
+</classpath>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64d47bf2-8872-4701-af58-42e00ed4b05e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Lab03/overloading/AimsProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab03/overloading/AimsProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab03/overloading/AimsProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab03/overloading/AimsProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab03/overloading/AimsProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab03/overloading/AimsProject/AimsProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab03/overloading/AimsProject/src/Aims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab03/overloading/AimsProject/src/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab03/overloading/AimsProject/src/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/AimsProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/src/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/src/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/src/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab02zip.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab02zip.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XXSWYvJzpqp3fnM9GlZ002r5Pc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "test",
+    "last_opened_file_path": "D:/work_space/java_ooptn/AimsProject",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work_space\java_ooptn" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hust.soict.dsai.test.disc" />
+      <recent name="hust.soict.dsai.test.store" />
+      <recent name="hust.soict.dsai.aims.store" />
+      <recent name="hust.soict.dsai.aims.disc" />
+      <recent name="hust.soict.dsai.test.cart" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Aims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.aims.Aims" />
+      <module name="AimsProject1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPassingParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.test.disc.TestPassingParameter" />
+      <module name="AimsProject1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPassingParameter" />
+        <item itemvalue="Application.Aims" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d47bf2-8872-4701-af58-42e00ed4b05e" name="Changes" comment="" />
+      <created>1698773965225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698773965225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../AimsProject1/src/hust/soict/dsai/aims/cart/Cart.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../AimsProject1/src/hust/soict/dsai/test/disc/TestPassingParameter.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../AimsProject1/src/hust/soict/dsai/test/disc/TestPassingParameter.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
