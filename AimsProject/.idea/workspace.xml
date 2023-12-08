@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64d47bf2-8872-4701-af58-42e00ed4b05e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/aims/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/aims/cart/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/aims/store/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/garbage/ConcatenationInLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/garbage/GarbageCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/garbage/NoGarbage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/garbage/test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/garbage/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Example/CalculateOfTwoNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Example/FirstDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Example/HelloNameDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Example/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Example/ShowTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Example/SolveEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Exercise/ChoosingOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Exercise/CountDaysOfMonth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Exercise/InputFromKeyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Exercise/SortArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Exercise/TriangleStars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/lab01/Exercise/TwoMatrices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/test/cart/CartTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/test/disc/TestPassingParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/test/store/StoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/ReadingAssignment/AimsProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/ReadingAssignment/AimsProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/ReadingAssignment/AimsProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/ReadingAssignment/AimsProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/ReadingAssignment/AimsProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/ReadingAssignment/AimsProject/AimsProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/ReadingAssignment/AimsProject/src/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/ReadingAssignment/AimsProject/src/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/ReadingAssignment/AimsProject/src/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/Requirement/AimsUseCase.asta" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab02/Requirement/AimsUseCase.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02zip.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab02zip.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/overloading/AimsProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/overloading/AimsProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/overloading/AimsProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/overloading/AimsProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/overloading/AimsProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/overloading/AimsProject/AimsProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/overloading/AimsProject/src/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/overloading/AimsProject/src/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/overloading/AimsProject/src/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XXSWYvJzpqp3fnM9GlZ002r5Pc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "topic/update-class-diagram/aims-project/lab04",
+    "last_opened_file_path": "D:/work_space/java_ooptn/ReadingAssignment/AimsProject",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hust.soict.dsai.aims.media" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aims">
+    <configuration name="Aims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aims" />
+      <module name="AimsProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPassingParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPassingParameter" />
+      <module name="AimsProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aims" />
+        <item itemvalue="Application.TestPassingParameter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d47bf2-8872-4701-af58-42e00ed4b05e" name="Changes" comment="" />
+      <created>1698773965225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698773965225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Cart.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestPassingParameter.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestPassingParameter.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Aims.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
