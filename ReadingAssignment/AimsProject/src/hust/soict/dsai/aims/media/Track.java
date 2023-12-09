@@ -10,6 +10,12 @@ public class Track implements Playable {
         this.length = length;
     }
 
+    @Override
+    public void play() {
+        System.out.println("Play DVD: " + this.getTitle());
+        System.out.println("Play length: " + this.getLength());
+    }
+
     // Getter methods
     public String getTitle() {
         return title;
@@ -19,9 +25,4 @@ public class Track implements Playable {
         return length;
     }
 
-    @Override
-    public void play() {
-        System.out.println("Play DVD: " + this.getTitle());
-        System.out.println("Play length: " + this.getLength());
-    }
 }
