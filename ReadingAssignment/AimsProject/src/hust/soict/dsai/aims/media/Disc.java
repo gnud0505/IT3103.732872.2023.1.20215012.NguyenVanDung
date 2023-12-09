@@ -28,11 +28,6 @@ public class Disc extends Media{
         this.length = length;
     }
 
-    @Override
-    public int hashCode() {
-        return Objects.hash(super.hashCode(), getDirector(), getLength());
-    }
-
     public String getDirector() {
         return director;
     }

@@ -9,8 +9,14 @@ public class Store {
     private ArrayList<Media> itemsInStore = new ArrayList<Media>();// danh sách store
 
     public void addMediaToStore (Media media){
-            this.itemsInStore.add(media);
-            System.out.println("Thêm dvd vào store thành công.");
+        for(Media m: itemsInStore){
+            if(m.equals(media)){
+                System.out.println("Thêm thất bại. Dã tồn tại trong Store");
+                return;
+            }
+        }
+        this.itemsInStore.add(media);
+        System.out.println("Thêm dvd vào Store thành công.");
     }
 
     public void addInStore (Media[] mediaList){

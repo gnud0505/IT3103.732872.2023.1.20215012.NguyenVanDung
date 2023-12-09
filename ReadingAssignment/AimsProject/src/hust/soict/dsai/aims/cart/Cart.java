@@ -9,6 +9,12 @@ public class Cart {
     private ArrayList<Media> itemsOrdered = new ArrayList<Media>();
 
     public void addMedia (Media media){
+        for(Media m: itemsOrdered){
+            if(m.equals(media)){
+                System.out.println("Thêm thất bại. Dã tồn tại trong giỏ hàng");
+                return;
+            }
+        }
         this.itemsOrdered.add(media);
         System.out.println("Thêm thành công");
     }

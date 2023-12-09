@@ -26,6 +26,19 @@ public abstract class Media {
     protected Media() {
     }
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Media media = (Media) o;
+        return Objects.equals(getTitle(), media.getTitle());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getTitle());
+    }
+
     public int getId() {
         return id;
     }
