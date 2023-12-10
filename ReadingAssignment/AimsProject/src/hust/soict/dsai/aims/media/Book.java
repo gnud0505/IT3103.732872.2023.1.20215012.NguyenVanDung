@@ -6,7 +6,7 @@ import java.util.List;
 public class Book extends Media{
     private List<String> authors = new ArrayList<String>();
 
-    public Book(int id, String title, String category, float cost, List<String> authors) {
+    public Book(String title, String category, float cost, List<String> authors) {
         super(category, title, cost);
         this.authors = authors;
     }
@@ -39,6 +39,16 @@ public class Book extends Media{
         }
     }
 
+    public String toString(){
+        String authorToString = new String();
+        for (String a: authors){
+            authorToString = authorToString + a + ", ";
+        }
+        if (authorToString.length() > 2) {
+            authorToString = authorToString.substring(0, authorToString.length() - 2);
+        }
+        return this.getId() + ". Book-" + super.getTitle() + "-" + super.getCategory() + "-" + authorToString + ": " + super.getCost() + "$";
+    }
 
     public List<String> getAuthors() {
         return authors;
