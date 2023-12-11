@@ -3,10 +3,12 @@ package hust.soict.dsai.aims.cart;
 import hust.soict.dsai.aims.media.*;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 
 public class Cart {
-    private ArrayList<Media> itemsOrdered = new ArrayList<Media>();
+    private List<Media> itemsOrdered = new ArrayList<Media>();
 
     public void addMedia (Media media){
         for(Media m: itemsOrdered){
@@ -72,5 +74,11 @@ public class Cart {
         System.out.println("-------------------------END CART------------------------");
     }
 
+    public void sortCostTitleMedia(){
+        Collections.sort(this.itemsOrdered, Media.COMPARE_BY_COST_TITLE);
+    }
 
+    public void sortTitleCostMedia(){
+        Collections.sort(this.itemsOrdered,Media.COMPARE_BY_TITLE_COST);
+    }
 }

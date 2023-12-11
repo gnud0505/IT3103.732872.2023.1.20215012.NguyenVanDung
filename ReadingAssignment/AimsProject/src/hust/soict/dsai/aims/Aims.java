@@ -40,12 +40,13 @@ public class Aims {
         Book book3 = new Book("Title3", "Category3", 19.99f, authors3);
 
         anOrder.addMedia(book1, book2, book3);
+        anOrder.sortCostTitleMedia();
 
 //print total cost of the items in the cart
         System.out.print("Total Cost is: ");
         System.out.println(anOrder.totalCost());
-        // Kiểm tra xem xóa khỏi giỏ hàng thành công không
-        anOrder.removeMedia(dvd3);
+//        // Kiểm tra xem xóa khỏi giỏ hàng thành công không
+//        anOrder.removeMedia(dvd3);
         System.out.print("Total Cost is: ");
         System.out.println(anOrder.totalCost());
 
